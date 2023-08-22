@@ -1,0 +1,23 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  color: #0074D9;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #99C2E8;
+}
+
+.title {
+  text-align: center;
+}
+
+.logo {
+  display: block;
+  margin: auto;
+}
